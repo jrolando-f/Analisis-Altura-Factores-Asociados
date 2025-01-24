@@ -1,6 +1,6 @@
 # ANÁLISIS DE ALTURA Y FACTORES ASOCIADOS
 
-Este proyecto analiza los factores que afectan la altura de las personas según características específicas de cada país. Se utiliza R para realizar análisis estadísticos y visualizaciones avanzadas.
+Este proyecto analiza los factores que afectan la altura de las personas según características específicas de cada país a través de los años. Se utiliza R para realizar análisis estadísticos y visualizaciones avanzadas.
 
 ## Contenido del repositorio
 - **`analisis.R`**: Script en R con el análisis completo.
