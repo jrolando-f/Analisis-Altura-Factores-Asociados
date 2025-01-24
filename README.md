@@ -38,12 +38,4 @@ Este proyecto fue desarrollado en R. Para reproducir el análisis, se necesitan 
 - `ggplot2`
 - `dplyr`
 - `readr`
-
-## Cómo usar este repositorio
-1. Clona este repositorio: `git clone <URL_DEL_REPOSITORIO>`
-2. Abre el archivo del proyecto en RStudio.
-3. Asegúrate de instalar las bibliotecas necesarias.
-4. Ejecuta los scripts siguiendo el orden indicado en la carpeta `scripts`.
-
-
-
+  
