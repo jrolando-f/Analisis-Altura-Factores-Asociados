@@ -45,9 +45,5 @@ Este proyecto fue desarrollado en R. Para reproducir el análisis, se necesitan 
 3. Asegúrate de instalar las bibliotecas necesarias.
 4. Ejecuta los scripts siguiendo el orden indicado en la carpeta `scripts`.
 
-## Resultados esperados
-Se espera encontrar que factores como la alimentación y el nivel de desarrollo humano (medido por la expectativa de vida y el PBI) tienen una correlación significativa con la altura promedio de las personas, mientras que la tasa de mortalidad infantil podría estar inversamente relacionada.
 
-## Contacto
-Si tienes preguntas o sugerencias sobre este proyecto, no dudes en abrir un issue o contactarme a través de GitHub.
 
